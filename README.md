@@ -1,7 +1,9 @@
 # Artstation Downloader
 by **Bloom**
 
-A simple script that downloads all art of an artist from [Artstation](https://www.artstation.com/).
+A simple script that downloads all art of an artist from [Artstation](https://www.artstation.com/). 
+
+Wrote this because I wanted to download all of [WLOP](https://www.artstation.com/wlop)'s art.
 
 ## How to use
 
