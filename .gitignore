@@ -1,3 +1,5 @@
 download/
 __pycache__/
 artstation_downloader.spec
+build/
+dist/
